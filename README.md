@@ -31,3 +31,6 @@ el centro y 2 de menor tamaño, donde los 2 menores hacen un giro
 en su eje en cierto momento.
 
 - Descomprima los archivos .zip previo a ejecutar el programa. 
+
+Para ejecutar los códigos se deben intalar ciertas librerías. 
+- Utilizando pip: pip install numpy scipy matplotlib pyopengl glfw ipython jupyter pillow imgui[glfw]
