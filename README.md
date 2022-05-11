@@ -29,3 +29,5 @@ original:
 La escena muestra una animación de 3 aviones, uno más grande en 
 el centro y 2 de menor tamaño, donde los 2 menores hacen un giro
 en su eje en cierto momento.
+
+- Descomprima los archivos .zip previo a ejecutar el programa. 
