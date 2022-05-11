@@ -1,17 +1,14 @@
-Tarea 02 de Modelación y Computación Gráfica CC3501
-
-Progreso de la tarea en: 
-github.com/valfranciscangeli/tarea02_grafica
+# Tarea 02 de Modelación y Computación Gráfica CC3501
 -----------------------------------------------------
 
-En esta carpeta de entrega final se encuentra:
+En esta carpeta se encuentra:
 
--Carpeta 'assets': donde se encuentran las figuras básicas usadas .off
--Carpeta 'grafica': contiene los módulos que se importan en el 
+- Carpeta 'assets': donde se encuentran las figuras básicas usadas .off
+- Carpeta 'grafica': contiene los módulos que se importan en el 
 desarrollo de la tarea.
--model: archivos .mtl y .obj de el modelo elegido para reproducir 
+- model: archivos .mtl y .obj de el modelo elegido para reproducir 
 en la tarea. En este caso el modelo elegido es avion 01.
--tarea2_v1.py: archivo python donde se encuentra el desarrollo para 
+- tarea2_v1.py: archivo python donde se encuentra el desarrollo para 
 crear la escena de la tarea.
 
 Para el desarrollo de esta tarea se utilizó como base el código dado
@@ -23,11 +20,11 @@ También se cambia el color de fonde de la ventana para simular cielo
 
 Colores en RGB utilizados en la escena, extaidos desde el modelo 
 original:
--Cuerpo del avion (verde): (0.000, 0.345, 0.000)
--Soporte de ruedas (anaranjado-marrón): (0.560, 0.286, 0.156)
--Cilindros grises: (0.500, 0.500, 0.500)
--Aspas de helice: (0.100, 0.100, 0.100)
--Además, blanco y negro. 
+- Cuerpo del avion (verde): (0.000, 0.345, 0.000)
+- Soporte de ruedas (anaranjado-marrón): (0.560, 0.286, 0.156)
+- Cilindros grises: (0.500, 0.500, 0.500)
+- Aspas de helice: (0.100, 0.100, 0.100)
+- Además, blanco y negro. 
 
 La escena muestra una animación de 3 aviones, uno más grande en 
 el centro y 2 de menor tamaño, donde los 2 menores hacen un giro
